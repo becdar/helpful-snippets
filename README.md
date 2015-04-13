@@ -5,4 +5,5 @@ Snippets in this library...
 ---------------------------
 *Node.JS*
 * **rest-soap-auth.js**
-A handy Node.JS command-line file connects to the ChannelAdvisor REST API using SOAP authentication. The file then streams the token to a JSON file for easy use in other languages or files. You can perform your query directly in the callback if you won't need the token in other file-types. *Requires: fs, Request*
+
+  A handy Node.JS command-line file connects to the ChannelAdvisor REST API using SOAP authentication. The file then streams the token to a JSON file for easy use in other languages or files. You can perform your query directly in the callback if you won't need the token in other file-types. *Requires: fs, Request*
